@@ -27,25 +27,11 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/haris-shuaib/
             icon: fab fa-linkedin-in
       - name: "Dika Vilic"
-        role: "Clinical Scientist"
+        role: "Deputy Head of Clinical Scientific Computing"
         team-member-page: /team_member/dika.html
         image: assets/img/team/Dika.jpg
         social:
           - url: https://github.com/dangerdika
-            icon: fab fa-github
-      - name: "Simone Ambrogio"
-        role: "Medical Physicist"
-        team-member-page: /team_member/simone.html
-        image: assets/img/team/Simone.jpg
-        social:
-          - url: https://github.com/simoambr
-            icon: fab fa-github
-      - name: "Laurence Jackson"
-        role: "Clinical Scientist"
-        team-member-page: /team_member/laurence.html
-        image: assets/img/team/Laurence.png
-        social:
-          - url: https://github.com/laurencejackson
             icon: fab fa-github
       - name: "Anil Mistry"
         role: "Clinical Scientist"
@@ -55,7 +41,7 @@ en: &DEFAULT_EN
           - url: https://github.com/AnilMistry
             icon: fab fa-github
       - name: "Alexander T Deng"
-        role: "Programme Lead for Fellowships in Clinical AI"
+        role: "Programme Lead for the Fellowship in Clinical AI"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
         social:
@@ -64,13 +50,6 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/alexandertdeng
             icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
-            icon: fab fa-github
-      - name: "Lucrezia Cester"
-        role: "AI Engineer"
-        team-member-page: /team_member/lucrezia.html
-        image: assets/img/team/Lucrezia.jpeg
-        social:
-          - url: https://github.com/Lucrezia-Cester
             icon: fab fa-github
       - name: "Tom Roberts"
         role: "AI Engineer"
@@ -101,23 +80,20 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://www.linkedin.com/in/kavitha-vimalesvaran-83600979/
             icon: fab fa-linkedin-in
-
       - name: "Aysha Luis"
-        role: "Fellow in Clinical AI"
+        role: "AI Evaluation Lead"
         team-member-page: /team_member/aysha.html
         image: assets/img/team/Aysha.jpg
         social:
           - url: https://twitter.com/ayshaluis
             icon: fab fa-twitter
-
       - name: "Beatrix Fletcher"
-        role: "Programme Manager for Fellowships in Clinical AI"
+        role: "Programme Manager for the Fellowship in Clinical AI"
         team-member-page: /team_member/beatrix.html
         image: assets/img/team/Beatrix1.jpg
         social:
           - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
             icon: fab fa-linkedin-in
-    
       - name: "Agathe Zecevic"
         role: "Data Scientist"
         team-member-page: /team_member/agathe.html
@@ -125,7 +101,42 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
             icon: fab fa-linkedin-in
-
+      - name: "Sophie Ratkai"
+        role: "Clinical Scientist"
+        team-member-page: /team_member/sophie.html
+        image: assets/img/team/SophieR.jpeg
+        social:
+          - url: https://github.com/sophie22
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/zsofia-ratkai-05b51b119
+            icon: fab fa-linkedin-in
+      - name: "Robert Dunk"
+        role: "Fellow in Clinical AI"
+        team-member-page: /team_member/rob.html
+        image: assets/img/team/Rob.jpg
+        social:
+          - url: https://github.com/robd78
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/robert-dunk-15a280228/
+            icon: fab fa-linkedin-in 
+      - name: "Mike Woodward"
+        role: "Clinical Scientist"
+        team-member-page: /team_member/mike.html
+        image: assets/img/team/Mike.jpg
+        social:
+          - url: https://github.com/mikewoodward94
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/mike-woodward-b29083204/
+            icon: fab fa-linkedin-in
+      - name: "Eleanor Stylianides"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/eleanor.html
+        image: assets/img/team/Eleanor.jpg
+        social:
+          - url: https://github.com/estyli
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/eleanor-stylianides/
+            icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
