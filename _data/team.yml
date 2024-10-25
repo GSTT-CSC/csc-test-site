@@ -151,7 +151,16 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/ElisePather
             icon: fab fa-github
-            
+      
+      - name: "Kathan Sonar"
+        role: "Trainee Clinical Scientist"
+        team-member-page: /team_member/kathan.html
+        image: assets/img/team/KathanS.jpg
+        social:
+          - url: https://github.com/Ksonar262
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/kathan-sonar/
+            icon: fab fa-linkedin-in
 
 en-US:
   <<: *DEFAULT_EN
