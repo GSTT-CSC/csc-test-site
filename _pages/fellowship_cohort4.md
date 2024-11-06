@@ -11,7 +11,7 @@ The materials below are a planning resource for future applicants.
 
 <h3 style>Key Dates</h3> 
 This list will be updated when the application window is finalised.
-* Nov 2024: Applications open- *Application Form* goes live, *Approval in Principle Form* goes live
+* 08 Nov 2024: Applications open- *Application Form* goes live, *Approval in Principle Form* goes live
 * Nov 2024: Applicant webinar and Q&A
 * Dec 2024: Application form deadline
 * Jan 2025: Approval in Principle form deadline
