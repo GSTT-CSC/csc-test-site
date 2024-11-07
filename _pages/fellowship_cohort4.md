@@ -3,26 +3,23 @@ layout: people
 permalink: /fellowship_cohort4.html
 title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26) 
 ---
-Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) will open on Friday 08 November 2024.
-Successful applicants will be fellows in clinical AI from August 2025 - August 2026.
-
+Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) are open. <br>
+Successful applicants will be fellows in clinical AI from August 2025 - August 2026.<br>
 Prospective applicants can read our [list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
-The materials below are a planning resource for future applicants.
 
-<h3 style>Key Dates</h3> 
-This list will be updated when the application window is finalised.
-* 08 Nov 2024: Applications open- *Application Form* goes live, *Approval in Principle Form* goes live
-* Nov 2024: Applicant webinar and Q&A
-* Dec 2024: Application form deadline
-* Jan 2025: Approval in Principle form deadline
-* Jan 2025: Remote interviews
-* Feb 2025: Interview outcomes and project matching
+<h3 style>Key Dates</h3>
+* 08 Nov 2024: Applications open- *[Application form](https://forms.office.com/e/WZDF73wwa8)* is live, *Approval in Principle Form* goes live
+* 13 Nov 2024: Applicant webinar and Q&A
+* 18 Dec 2024: *[Application form](https://forms.office.com/e/WZDF73wwa8)* and Approval in Principle form deadline at 23:59 GMT
+* 15 Jan 2025: Shortlisting outcomes communicated
+* 22-29 Jan 2025: Remote interviews
+* Feb 2025: Outcomes of interviews, project matching
 * Aug 2025: Fellowship cohort 4 begins
 
 <h3 style>Application process</h3> 
 
 1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 3 [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) for reference (criteria subject to change between cohorts).
-2. Applicant submits online *Application Form* (live in November 2024)
+2. Applicant submits online *[Application form](https://forms.office.com/e/WZDF73wwa8)*
 3. Applicant's Approver submits online *Approval in Principle Form*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
 4. Applicants are shortlisted for remote interview
 5. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
