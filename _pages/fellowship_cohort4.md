@@ -21,7 +21,7 @@ This list will be updated when the application window is finalised.
 
 <h3 style>Application process</h3> 
 
-1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 4 [role description document](/assets/docs/C4_Role_Description.pdf) for reference (criteria subject to change between cohorts).
+1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 4 [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf) for reference (criteria subject to change between cohorts).
 2. Applicant submits online *Application Form* (live in November 2024)
 3. Applicant's Approver submits online *Approval in Principle Form*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
 4. Applicants are shortlisted for remote interview
@@ -38,7 +38,7 @@ This covered the features and curriculum of the fellowship, addressed frequently
 
 <h3 style>Recruitment Regions</h3>
 
-Within each region, eligibility varies by workforce. For the previous year, see the [Cohort 4 role description document](/assets/docs/C4_Role_Description.pdf) for more details.
+Within each region, eligibility varies by workforce. For the previous year, see the [Cohort 4 role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf) for more details.
 <br><br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
 If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:gstt.aifellowship@nhs.net) so that we can identify priority areas for recruitment in future cohorts.
 
