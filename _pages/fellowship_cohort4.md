@@ -12,7 +12,7 @@ The materials below are a planning resource for future applicants.
 <h3 style>Key Dates</h3> 
 This list will be updated when the application window is finalised.
 * 08 Nov 2024: Applications open- *Application Form* goes live, *Approval in Principle Form* goes live
-* Nov 2024: Applicant webinar and Q&A
+* Nov 2024: [Webinar and Q&A](https://events.teams.microsoft.com/event/af05c919-3486-48d7-b889-17c9de9f4962@37c354b2-85b0-47f5-b222-07b48d774ee3)
 * Dec 2024: Application form deadline
 * Jan 2025: Approval in Principle form deadline
 * Jan 2025: Remote interviews
@@ -31,10 +31,8 @@ This list will be updated when the application window is finalised.
 Please [contact the faculty directly](mailto:gstt.aifellowship@nhs.net) for further details.
 
 <h3 style>Applicant Webinar </h3> 
-
-[Watch the video recording for Cohort 3 applicant webinar here](https://youtu.be/LlVa9WXXI-Y).<br>
-The faculty hosted a webinar on Wednesday 22 November 2023 for Cohort 3 applications.
-This covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
+[Register for this webinar](https://events.teams.microsoft.com/event/af05c919-3486-48d7-b889-17c9de9f4962@37c354b2-85b0-47f5-b222-07b48d774ee3).<br>
+The faculty will host a webinar on Wednesday 13 November 2023 for Cohort 4 applications. It will be uploaded here as a recording following the event. The webinar will cover the features and curriculum of the fellowship, address frequently asked questions, and invite follow-up questions from applicants. 
 
 <h3 style>Recruitment Regions</h3>
 
