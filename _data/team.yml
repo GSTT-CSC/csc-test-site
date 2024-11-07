@@ -34,7 +34,7 @@ en: &DEFAULT_EN
           - url: https://github.com/dangerdika
             icon: fab fa-github
       - name: "Anil Mistry"
-        role: "Clinical Scientist"
+        role: "Senior Clinical Scientist in AI"
         team-member-page: /team_member/anil.html
         image: assets/img/team/Anil.jpg
         social:
@@ -51,15 +51,6 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
             icon: fab fa-github
-      - name: "Tom Roberts"
-        role: "AI Engineer"
-        team-member-page: /team_member/tom.html
-        image: assets/img/team/TomR.jpeg
-        social:
-          - url: https://github.com/tomaroberts
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/tom-a-roberts/
-            icon: fab fa-linkedin-in
       - name: "Haleema Drake"
         role: "AI Engineer"
         team-member-page: /team_member/haleema.html
@@ -69,13 +60,6 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/heyhaleema
             icon: fab fa-linkedin-in
-      - name: "Aysha Luis"
-        role: "AI Evaluation Lead"
-        team-member-page: /team_member/aysha.html
-        image: assets/img/team/Aysha.jpg
-        social:
-          - url: https://twitter.com/ayshaluis
-            icon: fab fa-twitter
       - name: "Beatrix Fletcher"
         role: "Programme Manager for the Fellowship in Clinical AI"
         team-member-page: /team_member/beatrix.html
@@ -90,17 +74,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
             icon: fab fa-linkedin-in
-      - name: "Sophie Ratkai"
-        role: "Clinical Scientist"
-        team-member-page: /team_member/sophie.html
-        image: assets/img/team/SophieR.jpeg
-        social:
-          - url: https://github.com/sophie22
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/zsofia-ratkai-05b51b119
-            icon: fab fa-linkedin-in
       - name: "Mike Woodward"
-        role: "Clinical Scientist"
+        role: "Clinical Scientist in AI"
         team-member-page: /team_member/mike.html
         image: assets/img/team/Mike.jpg
         social:
@@ -145,13 +120,13 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
       - name: "Elise Pather"
-        role: "Clinical Scientist"
+        role: "Senior Clinical Scientist in AI"
         team-member-page: /team_member/elise.html
         image: assets/img/team/elise.jpg
         social:
           - url: https://github.com/ElisePather
             icon: fab fa-github
-      
+
       - name: "Kathan Sonar"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/kathan.html
