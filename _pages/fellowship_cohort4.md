@@ -10,7 +10,7 @@ Prospective applicants can read our [list of clinical AI resources](/resources.h
 <h3 style>Key Dates</h3>
 * 08 Nov 2024: Applications open- *[Application form](https://forms.office.com/e/WZDF73wwa8)* is live, *Approval in Principle Form* goes live
 * 13 Nov 2024: Applicant webinar and Q&A
-* 18 Dec 2024: *[Application form](https://forms.office.com/e/WZDF73wwa8)* and Approval in Principle form deadline at 23:59 GMT
+* 18 Dec 2024: *[Application form](https://forms.office.com/e/WZDF73wwa8)* and Approval in Principle form deadline at 23:45 GMT
 * 15 Jan 2025: Shortlisting outcomes communicated
 * 22-29 Jan 2025: Remote interviews
 * Feb 2025: Outcomes of interviews, project matching
