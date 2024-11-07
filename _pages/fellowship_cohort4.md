@@ -11,7 +11,7 @@ The materials below are a planning resource for future applicants.
 
 <h3 style>Key Dates</h3> 
 This list will be updated when the application window is finalised.
-* 08 Nov 2024: Applications open- *Application Form* goes live, *Approval in Principle Form* goes live
+* 08 Nov 2024: Applications open- *Application Form* goes live, *[Approval in Principle form](https://forms.office.com/e/yvTq2z0W4V)* is live
 * Nov 2024: Applicant webinar and Q&A
 * Dec 2024: Application form deadline
 * Jan 2025: Approval in Principle form deadline
@@ -23,7 +23,7 @@ This list will be updated when the application window is finalised.
 
 1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 3 [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) for reference (criteria subject to change between cohorts).
 2. Applicant submits online *Application Form* (live in November 2024)
-3. Applicant's Approver submits online *Approval in Principle Form*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
+3. Applicant's Approver submits the *[Approval in Principle form](https://forms.office.com/e/yvTq2z0W4V)*. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern. Applications will not be shortlisted for interview without this evidence. 
 4. Applicants are shortlisted for remote interview
 5. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
