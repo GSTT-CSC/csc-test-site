@@ -30,7 +30,7 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 [Read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf)
 
 <h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
-
+The list below is indicative and may vary between cohorts.
 <details>
 <summary>
 <b>England</b>
@@ -62,7 +62,12 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
   <li>The Royal Wolverhampton NHS Trust</li>
 </ul>
 </details>
-
+<details><summary>North West</summary>
+<ul>
+  <li>Alder Hey Children's Hospital Trust</li>
+  <li>Manchester University NHS Foundation Trust</li>
+</ul>
+</details>
 
 <details><summary>South East</summary>
 <ul>
