@@ -8,31 +8,33 @@ Successful applicants will be fellows in clinical AI from August 2025 - August 2
 Prospective applicants can read our [list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
 
 <h3 style>Key Dates</h3>
-* 08 Nov 2024: Applications open- *[Application Form](https://forms.office.com/e/WZDF73wwa8)* is live, *[Approval in Principle Form](https://forms.office.com/e/aeTa9pRyR4)* is live
+* 08 Nov 2024: Applications open- *[Application Form](https://forms.office.com/e/WZDF73wwa8)* is live, *[Approval In Principle Form](https://forms.office.com/e/aeTa9pRyR4)* is live
 * 13 Nov 2024: [Webinar and Q&A](https://events.teams.microsoft.com/event/af05c919-3486-48d7-b889-17c9de9f4962@37c354b2-85b0-47f5-b222-07b48d774ee3)
-* 18 Dec 2024: *Application Form* and *Approval in Principle Form* deadline at 23:45 GMT
+* 18 Dec 2024: *Application Form* and *Approval In Principle Form* deadline at 23:45 GMT
 * 15 Jan 2025: Shortlisting outcomes communicated
 * 22-29 Jan 2025: Remote interviews
 * Feb 2025: Outcomes of interviews, project matching
 * Aug 2025: Fellowship cohort 4 begins
 
 <h3 style>Application process for NHS applicants</h3> 
-1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 4 [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf).
-2. Applicant submits online *[Application Form](https://forms.office.com/e/WZDF73wwa8)*
-3. Applicant's Approver submits the *[Approval in Principle Form](https://forms.office.com/e/aeTa9pRyR4)*. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern. Applications will not be shortlisted for interview without this evidence. 
-4. Applicants are shortlisted for remote interview
-5. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
+1. Applicant reviews eligibility and person specification in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)
+2. Applicant submits *[Application Form](https://forms.office.com/e/WZDF73wwa8)*
+3. Applicant's Approver submits *[Approval In Principle Form](https://forms.office.com/e/aeTa9pRyR4)*. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern. Applications will not be shortlisted for interview without this evidence. 
+4. Applicants are shortlisted 
+5. Shortlisted applicants are offered a remote interview
+6. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Application process for international and non-NHS applicants</h3>
 
-1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)
+1. Applicant reviews eligibility and person specification in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)
 2. Applicant confirms a Sponsor who agrees to fund the salary and course fees associated with the fellowship (costs [available on request](mailto:gstt.aifellowship@nhs.net))
-3. Applicant reviews if they will also apply for the [International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) in London alongside the NHS Fellowship in Clinical AI (dual post-[details available on request](mailto:gstt.aifellowship@nhs.net))
+3. Applicant reviews if they will also apply for the [International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) in London alongside the NHS Fellowship in Clinical AI (dual post, 0.4 AI + 0.6 clinical-[details available on request](mailto:gstt.aifellowship@nhs.net))
 3. Applicant emails their up-to-date CV [to the faculty ](mailto:gstt.aifellowship@nhs.net) 
 4. Applicant submits *[Non-NHS Application Form](https://forms.office.com/e/6xuc0A1qAj)*
-5. Applicant's Approver submits *[Non-NHS Approval in Principle Form](https://forms.office.com/e/HjdrF8kQgq)*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
-6. Applicants are shortlisted for remote interview
-7. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
+5. Applicant's Approver submits *[Non-NHS Approval In Principle Form](https://forms.office.com/e/HjdrF8kQgq)*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
+6. Applicants are shortlisted 
+7. Shortlisted applicants are offered a remote interview 
+8. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Applicant Webinar </h3> 
 [Register for this webinar](https://events.teams.microsoft.com/event/af05c919-3486-48d7-b889-17c9de9f4962@37c354b2-85b0-47f5-b222-07b48d774ee3).<br>
@@ -40,8 +42,8 @@ The faculty will host a webinar on Wednesday 13 November 2023 for Cohort 4 appli
 
 <h3 style>Recruitment Regions</h3>
 
-Within each region, eligibility varies by workforce. For the previous year, see the [Cohort 4 role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf) for more details.
-<br><br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
+Within each region, eligibility varies by workforce, as described in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf).
+<br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
 If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:gstt.aifellowship@nhs.net) so that we can identify priority areas for recruitment in future cohorts.
 
 
@@ -111,7 +113,7 @@ Consider how to show evidence of meeting these criteria with real-world examples
 </details>
 <details>
 
-<summary>Approval in principle</summary>
+<summary>Approval In principle</summary>
 
 <strong>Does the <i>Approval In Principle Form</i> submission from my Approver have the same deadline as my <i>Application Form</i>? </strong>
 
