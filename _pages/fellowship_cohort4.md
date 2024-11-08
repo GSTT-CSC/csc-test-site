@@ -61,16 +61,16 @@ If your question is not answered below, please [contact the faculty](mailto:gstt
 
 <p>Workforce and geographical eligibility are not decided by the faculty of this fellowship. 
 This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
-If you wished to apply this cohort but were ineligible, please email the fellowship faculty so that we can identify priority areas for recruitment in future cohorts at gstt.aifellowship@nhs.net
+If you wished to apply this cohort but were ineligible, please email the fellowship faculty (gstt.aifellowship@nhs.net) so that we can identify priority areas for recruitment in future cohorts.
 </p>
-<strong>Why are only certain career stages eligible?  </strong>
+<strong>Why are only certain career stages within my workforce group eligible?  </strong>
 
 <p>Healthcare leaders with expertise in clinical AI are required for successful AI adoption in the NHS. 
 The eligible career stages have been agreed by consensus with the digital workforce leads for eligible professions in order to target individuals just about to enter positions of clinical leadership and service development, and thus best placed to deliver on the transformational benefits of clinical AI. 
 </p>
 <strong>Do I have to know how coding or programming to be eligible? </strong>
 
-<p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification and previous fellows have been recruited without such experience. 
+<p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification. Previous fellows have been recruited without such experience. 
 </p>
 <strong>Can I apply if I almost meet the eligibility criteria? </strong>
 
@@ -82,61 +82,7 @@ The eligible career stages have been agreed by consensus with the digital workfo
 <p>No. Current fellows and alumni are not eligible. 
 </p>
 </details>
-<details>
-<summary>British Society for Haematology Fellows in Clinical AI</summary>
 
-<strong>What is a BSH Fellow in Clinical AI? </strong>
-
-<p>The British Society for Haematology (BSH) is sponsoring posts for BSH members in Cohort 4 of the Fellowship in Clinical AI. 
-There are 2 sponsored posts in Cohort 4, and the appointees will be designated BSH Fellows in Clinical AI. 
-These posts are reserved exclusively for applicants who are BSH members, and will link to projects relating to Haematology. 
-</p>
-<strong>Are there Haematology themed AI projects available?  </strong>
-
-<p>Yes. The BSH and fellowship faculty have identified projects relevant to the specialty theme of AI in Haematology and details will be released during the recruitment cycle.  
-These are “BSH-badged projects”, and first priority for them is reserved exclusively for BSH Fellows in Clinical AI. 
-In Cohort 3, BSH-badged projects are clustered around the London and the South East. Geographical availability is anticipated to expand in Cohort 4.
-</p>
-<strong>Can any member of the BSH apply? </strong>
-
-<p>No. BSH applicants also need to meet the professional eligibility criteria for workforce groups as specified in the job description. 
-</p>
-
-<strong>Can BSH applicants from any region apply for BSH-badged projects in any other region? </strong>
-
-<p>Yes. BSH applicants can apply from any NHS region. 
-However, in practice, it is the applicant's responsibility to ensure that they are able to commute to their project location through the fellowship year, and this is not resourced by the BSH or by the fellowship itself. The offer for a fellowship post may be withdrawn if the potential BSH Fellow in Clinical AI is unable to demonstrate a feasible plan for commuting to their project location. 
-
-</p>
-<strong>How will BSH membership be checked? </strong>
-
-<p>BSH applicants enter their BSH membership number in the application form, which will be checked against the membership registry of the BSH to confirm they are a current member. 
-</p>
-
-<strong>How does project matching for BSH Fellows in Clinical AI happen? </strong>
-
-<p>Applicants will rank the projects they are eligible to be matched to. 
-The highest scoring BSH applicant from the interview stage will be matched to their highest ranked BSH-badged project. 
-The next highest scoring BSH applicant is matched to their highest ranked BSH-badged project remaining, etc. until all BSH-sponsored posts are filled. 
-</p>
-<strong>Can BSH applicants only get matched to BSH-badged projects? </strong>
-
-<p>BSH applicants who are appointed as BSH Fellows in Clinical AI will exclusively be matched to BSH-badged projects.
-BSH applicants who also meet regional criteria can be matched to projects in that region (whether BSH-badged on not) if they miss out on a sponsored post (they are automatically re-entered into the applicant pool of that region).
-BSH applicants who do not meet regional criteria for any of the participating regions are only eligible to be matched to BSH-badged projects as BSH Fellows in Clinical AI. 
-</p>
-<strong>Can a non-BSH applicant be matched to BSH-badged projects? </strong>
-
-<p>Yes. If there are BSH-badged projects that are still available after the BSH Fellows in Clinical AI have been appointed, these can be matched to either BSH applicants or non-BSH applicants as part of the regional matching process. 
-</p>
-<strong>What happens if a BSH applicant does not obtain a sponsored post as a BSH Fellow in Clinical AI? </strong>
-
-<p>BSH applicants who do not obtain one of the sponsored posts in this cohort are automatically re-entered into the applicant pool associated with their region.
-The applicant could be matched to a project in that region depending on their interview score.
-Entering the fellowship through this route will not carry the designation of BSH Fellow in Clinical AI, but will still be a fellow in clinical AI.
-It is possible to be matched to a BSH-badged project through this route, depending on regional availability. 
-</p>
-</details>
 
 <details>
 
@@ -157,7 +103,7 @@ The interview panel consists of fellowship faculty, AI supervisors, and regional
 </p>
 <strong>When will the interviews happen?  </strong>
 
-<p>The interviews are planned for mid/late January 2025. 
+<p>The interviews are planned for 22-29 January 2025. 
 Applicants proceeding to interview will be sent a link to book their interview slot. 
 </p>
 
@@ -173,14 +119,15 @@ Consider how to show evidence of meeting these criteria with real-world examples
 
 <summary>Approval in principle</summary>
 
-<strong>Does the <i>Approval In Principle Form</i> need to be submitted at the same time as my <i>Application Form</i>? </strong>
+<strong>Does the <i>Approval In Principle Form</i> submission from my Approver have the same deadline as my <i>Application Form</i>? </strong>
 
-<p>No. However, if the <i>Approval In Principle Form</i> is not received by the time the shortlist stage is complete (indicative deadline: early January 2025), your application cannot proceed to interview, regardless of your shortlist score. 
+<p>Yes. The deadline is the same as listed in the Key Dates above. 
 </p>
 <strong>What if I cannot get the appropriate person to submit my <i>Approval In Principle Form</i>?  </strong>
 
-<p>Applicants who do not have the relevant submitted <i>Approval In Principle Form</i> cannot proceed to the interview stage, regardless of their shortlist score. 
-This is because we can only make offers to applicants who have evidence of being able to take up the post. 
+<p>Applicants who do not have the relevant submitted <i>Approval In Principle Form</i> will not be shortlisted. This is because we can only make offers to applicants who have evidence of being able to take up the post. 
+The submission portal closes automatically and late submissions are not accepted.
+
 </p>
 </details>
 
@@ -190,7 +137,7 @@ This is because we can only make offers to applicants who have evidence of being
 
 <strong>Do I need to have an idea for a clinical AI project when I apply to this fellowship? </strong>
 
-<p>No. Projects and hosting teams in NHS Trusts are proposed to the faculty by AI supervisors. 
+<p>No. Projects and hosting teams in the NHS are proposed to the faculty by AI supervisors. 
 Successful applicants are matched to these projects competitively following the interview stage. 
 </p>
 <strong>How does project matching happen? </strong>
@@ -220,7 +167,7 @@ Otherwise, if there are no projects remaining that the applicant has ranked when
 <strong>What if there are no projects that directly align with my clinical specialty or background?</strong>
 
 <p>Many fellows work on projects outside their usual specialty area on this fellowship. 
-Clinical AI is still a small field and clinical specialties are not equally represented in the available projects. 
+Clinical AI is still a growing field and clinical specialties are not equally represented in the available projects. 
 The experience from any project will involve significant amounts of transferable knowledge and skills which will equip you to adopt clinical AI in your own career. 
 </p>
 </details>
@@ -243,18 +190,73 @@ The experience from any project will involve significant amounts of transferable
 
 <p>No. The fellowship is not your Employer. Your existing Employer is reimbursed for your salary (0.4FTE for 12 months) to release your time for the fellowship post by the regional or professional sponsoring organisation for your post. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship.  
 </p>
-<strong>What if I go on sick leave or parental leave during the fellowship year? </strong>
+<strong>What if I go on sick leave, parental leave, or any other extended leave during the fellowship year? </strong>
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
 The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. Project supervisors propose projects related to cohort dates and are not required to provide supervision beyond these dates.
 In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
 
-<strong>Can I do the fellowship at a lower time commitment (0.4FTE)?</strong>
-<p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
-One eligibility criterion is that your Approver confirms you will be released for 0.4FTE for this programme.
-If your Approver cannot confirm that this time can be released, your application is not eligible.
-A fellow should not have a total working pattern >1.0FTE in total.
-
+<strong>Can I do the fellowship at a lower time commitment than 0.4FTE?</strong>
+<p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. 
+The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
+If your Approver cannot confirm that this time can be released, your application is not eligible and will not be shortlisted.
+Due to the time commitments of this programme, a fellow must not have a total working pattern >1.0FTE in total.
 </p>
 
+</details>
+
+<details>
+<summary>British Society for Haematology Fellows in Clinical AI</summary>
+
+<strong>What is a BSH Fellow in Clinical AI? </strong>
+
+<p>The British Society for Haematology (BSH) is sponsoring posts for BSH members in Cohort 4 of the Fellowship in Clinical AI. 
+There are 2 sponsored posts in Cohort 4, and the appointees will be designated BSH Fellows in Clinical AI. 
+These posts are reserved exclusively for applicants who are BSH members, and will link to projects relating to Haematology. 
+</p>
+<strong>Are there Haematology themed AI projects available?  </strong>
+
+<p>Yes. The BSH and fellowship faculty have identified projects relevant to the specialty theme of AI in Haematology and details will be released during the recruitment cycle.  
+These are “BSH-badged projects”, and first priority for them is reserved exclusively for BSH Fellows in Clinical AI. 
+
+</p>
+<strong>Can any member of the BSH apply? </strong>
+
+<p>No. BSH applicants also need to meet the professional eligibility criteria for workforce groups as specified in the role description document. 
+</p>
+
+<strong>Can BSH applicants from any region apply for BSH-badged projects in any other region? </strong>
+
+<p>Yes. BSH applicants can apply from any NHS region. 
+However, in practice, it is the applicant's responsibility to ensure that they are able to commute to their project location through the fellowship year, and this is not resourced by the BSH or by the fellowship itself. The offer for a fellowship post may be withdrawn if the potential BSH Fellow in Clinical AI is unable to demonstrate a feasible plan for commuting to their project location. 
+Please contact the faculty ((gstt.aifellowship@nhs.net) for more specific information on geographical availability of such projects.
+</p>
+<strong>How will BSH membership be checked? </strong>
+
+<p>BSH applicants enter their BSH membership number in the application form, which will be checked against the membership registry of the BSH. 
+</p>
+
+<strong>How does project matching for BSH Fellows in Clinical AI happen? </strong>
+
+<p>Applicants will rank the projects they are eligible to be matched to. 
+The highest scoring BSH applicant from the interview stage will be matched to their highest ranked BSH-badged project. 
+The next highest scoring BSH applicant is matched to their highest ranked BSH-badged project remaining, etc. until all BSH-sponsored posts are filled. 
+</p>
+<strong>Can BSH applicants only get matched to BSH-badged projects? </strong>
+
+<p>BSH applicants who are appointed as BSH Fellows in Clinical AI will exclusively be matched to BSH-badged projects.
+BSH applicants who also meet regional criteria can be matched to projects in that region (whether BSH-badged on not) if they miss out on a sponsored post (they are automatically re-entered into the applicant pool of that region).
+BSH applicants who do not meet regional criteria for any of the participating regions are only eligible to be matched to BSH-badged projects as BSH Fellows in Clinical AI. 
+</p>
+<strong>Can a non-BSH applicant be matched to BSH-badged projects? </strong>
+
+<p>Yes. If there are BSH-badged projects that are still available after the BSH Fellows in Clinical AI have been appointed, these can be matched to either BSH applicants or non-BSH applicants as part of the regional matching process. 
+</p>
+<strong>What happens if a BSH applicant does not obtain a sponsored post as a BSH Fellow in Clinical AI? </strong>
+
+<p>BSH applicants who do not obtain one of the sponsored posts in this cohort are automatically re-entered into the applicant pool associated with their region.
+The applicant could be matched to a project in that region depending on their interview score.
+Entering the fellowship through this route will not carry the designation of BSH Fellow in Clinical AI, but will still be a fellow in clinical AI.
+It is possible to be matched to a BSH-badged project through this route, depending on regional availability. 
+</p>
 </details>
