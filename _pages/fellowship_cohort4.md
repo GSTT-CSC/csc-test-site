@@ -19,7 +19,7 @@ This list will be updated when the application window is finalised.
 * Feb 2025: Interview outcomes and project matching
 * Aug 2025: Fellowship cohort 4 begins
 
-<h3 style>Application process</h3> 
+<h3 style>Application process for NHS applicants</h3> 
 
 1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the role description document. See Cohort 3 [role description document](/assets/docs/Fellowship_Role_Description_Cohort3.pdf) for reference (criteria subject to change between cohorts).
 2. Applicant submits online *Application Form* (live in November 2024)
@@ -27,8 +27,16 @@ This list will be updated when the application window is finalised.
 4. Applicants are shortlisted for remote interview
 5. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
-<h3 style>Non-NHS and International Applicants</h3> 
-Please [contact the faculty directly](mailto:gstt.aifellowship@nhs.net) for further details.
+<h3 style>Application process for international and non-NHS applicants</h3>
+
+1. Applicant reviews the eligibility requirements, person specification, and other details of the role in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)
+2. Applicant emails their up-to-date CV [to the faculty ](mailto:gstt.aifellowship@nhs.net)
+3. Applicant reviews if they will also apply for the [International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) in London alongside the NHS Fellowship in Clinical AI (dual post-[details available on request](mailto:gstt.aifellowship@nhs.net))
+3. Applicant confirms a Sponsor who agrees to fund the salary and course fees associated with the fellowship (costs [available on request](mailto:gstt.aifellowship@nhs.net))
+4. Applicant submits *[Non-NHS Application Form](https://forms.office.com/e/6xuc0A1qAj)*
+5. Applicant's Approver submits *[Non-NHS Approval in Principle Form](https://forms.office.com/e/HjdrF8kQgq)*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
+6. Applicants are shortlisted for remote interview
+7. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Applicant Webinar </h3> 
 
