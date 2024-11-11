@@ -8,7 +8,7 @@ description:
 The NHS Fellowship in Clinical AI is a 12-month programme which is integrated part-time alongside clinical work.
 
 Clinical AI fellows are recruited competitively from across the NHS, drawn from a diverse clinical workforce including: medical and dental specialty trainees, nurses & midwives, allied health professionals, and pharmacy professionals.
-Our fellows are smart and energetic individuals who will be equipped to adopt clinical artificial intelligence technology.
+Our fellows are smart and energetic individuals who will be equipped to adopt clinical artificial intelligence technology through our [focussed clinical AI curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf)
 Fellows gain experience deploying AI in clinical workflows in 12-month project placements, under expert supervision in multidisciplinary teams.
 
 This unique programme is featured as an exemplar in upskilling clinicians for AI transformation in both the *[NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74)* and the NHS Transformation Directorate report, *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)*. 

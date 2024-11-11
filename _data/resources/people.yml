@@ -4,6 +4,11 @@
 #  description:
 #  link:
 
+- name: NHS Fellowship in Clinical AI, Clinical AI Curriculum
+  description: |
+    Developed by the faculty of the NHS Fellowship in Clinical AI, this document specifies the content and outlines the delivery of the knowledge and skills to adopt AI safely and effectively in clinical workflows.
+  link: https://gstt-csc.github.io/assets/docs/FCAI_Curriculum_v3.2.pdf
+
 - name: NHS AI and Digital Regulations Service for health and social care
   description: |
     Developed by NICE, the MHRA, the CQC, and the HRA for both adopters of AI in healthcare and developers.
