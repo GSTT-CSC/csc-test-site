@@ -113,7 +113,7 @@ Consider how to show evidence of meeting these criteria with real-world examples
 </details>
 <details>
 
-<summary>Approval In principle</summary>
+<summary>Approval In Principle</summary>
 
 <strong>Does the <i>Approval In Principle Form</i> submission from my Approver have the same deadline as my <i>Application Form</i>? </strong>
 
@@ -169,34 +169,46 @@ The experience from any project will involve significant amounts of transferable
 </details>
 
 
-
 <details>
 
-<summary>Miscellaneous</summary>
+<summary>Working pattern, pay, leave, deferred entry</summary>
+<strong>If I'm in specialty medical or dental training, will my time spent on the fellowship count towards my training?</strong>
 
-<strong>What certification do fellows receive at the end of the fellowship year? </strong>
-
-<p>Fellows receive a certificate of completion of the fellowship issued by the faculty. 
-</p>
-<strong>Can I defer entry to the fellowship to a future cohort if I apply in this cohort? </strong>
-
-<p>No. The offer for a fellowship post must be accepted for that cohort’s recruitment cycle.
-</p>
-<strong>Does the fellowship pay me directly? </strong>
-
-<p>No. The fellowship is not your Employer. Your existing Employer is reimbursed for your salary (0.4FTE for 12 months) to release your time for the fellowship post by the regional or professional sponsoring organisation for your post. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship.  
-</p>
-<strong>What if I go on sick leave, parental leave, or any other extended leave during the fellowship year? </strong>
-<p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
-The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. Project supervisors propose projects related to cohort dates and are not required to provide supervision beyond these dates.
-In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
-Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
+<p>No. Fellows typically agree with their Training Programme Director to enter less than full time training for the duration of this fellowship.
+The time spent on the fellowship is then added on extend the expected duration of training.
+The educational content of the fellowship is not expected to align sufficiently with current medical/dental curricula to count towards competencies.</p>
 
 <strong>Can I do the fellowship at a lower time commitment than 0.4FTE?</strong>
 <p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. 
 The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
 If your Approver cannot confirm that this time can be released, your application is not eligible and will not be shortlisted.
 Due to the time commitments of this programme, a fellow must not have a total working pattern >1.0FTE in total.
+</p>
+
+<strong>Does the fellowship pay me directly? </strong>
+
+<p>No. The fellowship is not your Employer. Your existing Employer is reimbursed for your salary (0.4FTE for 12 months) to release your time for the fellowship post by the regional or professional sponsoring organisation for your post. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship.  
+</p>
+
+<strong>What if I go on sick leave, parental leave, or any other extended leave during the fellowship year? </strong>
+<p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
+The educational activities and project placements hosted by AI supervisors are structured to deliver the learning objectives of the fellowship curriculum within this period. Project supervisors propose projects related to cohort dates and are not required to provide supervision beyond these dates.
+In general, interrupted time on the fellowship year cannot be added on beyond the end of the fellowship year. 
+Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
+
+<strong>Can I defer entry to the fellowship to a future cohort if I apply in this cohort? </strong>
+<p>No. The offer for a fellowship post must be accepted for that cohort’s recruitment cycle.
+</p>
+
+</details>
+
+<details>
+
+<summary>Certification</summary>
+
+<strong>What certification do fellows receive at the end of the fellowship year? </strong>
+
+<p>Fellows receive a certificate of completion of the fellowship issued by the faculty. 
 </p>
 
 </details>
