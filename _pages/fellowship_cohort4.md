@@ -53,7 +53,7 @@ If your question is not answered below, please [contact the faculty](mailto:gstt
 
 <summary>Eligibility</summary>
 
-<strong>Why is my region, workforce group, or region/workforce group combination not eligible? </strong>
+<strong>Why is my NHS region, workforce group, or region/workforce group combination not eligible? </strong>
 
 <p>Workforce and geographical eligibility are not decided by the faculty of this fellowship. 
 This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
@@ -64,6 +64,11 @@ If you wished to apply this cohort but were ineligible, please email the fellows
 <p>Healthcare leaders with expertise in clinical AI are required for successful AI adoption in the NHS. 
 The eligible career stages have been agreed by consensus with the digital workforce leads for eligible professions in order to target individuals just about to enter positions of clinical leadership and service development, and thus best placed to deliver on the transformational benefits of clinical AI. 
 </p>
+<strong>Is a doctor/dentist eligible if they are: a core trainee, post-CCT, or not in training? </strong>
+
+<p>No. Medical and dental trainees must hold a National Training Number on a specialty training programme leading to CCT in its own right for the duration of the post.
+</p>
+
 <strong>Do I have to know how coding or programming to be eligible? </strong>
 
 <p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification. Previous fellows have been recruited without such experience. 
