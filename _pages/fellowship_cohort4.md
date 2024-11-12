@@ -69,7 +69,7 @@ The eligible career stages have been agreed by consensus with the digital workfo
 <p>No. Medical and dental trainees must hold a National Training Number on a specialty training programme leading to CCT in its own right for the duration of the post.
 </p>
 
-<strong>Do I have to know how coding or programming to be eligible? </strong>
+<strong>Do I have to know coding or programming to be eligible? </strong>
 
 <p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification. Previous fellows have been recruited without such experience. 
 </p>
