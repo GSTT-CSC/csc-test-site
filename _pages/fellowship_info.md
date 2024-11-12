@@ -115,7 +115,7 @@ The list below is indicative and may vary between cohorts.
 * The [NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
 * [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
 * Salisbury et al. described how our fellows 'learn how to safely deploy, maintain, and evaluate AI software in real clinical workflows' in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
-* Misra et al. described the fellowship's role in creating 'clinical champions' in 'AI-powered care' in the Royal College of Physcians' [Future Healthcare Journal (2024)](https://doi.org/10.1016/j.fhj.2024.100162)
+* Misra et al. described the fellowship's role in creating 'clinical champions' in 'AI-powered care' in the Royal College of Physicians' [Future Healthcare Journal (2024)](https://doi.org/10.1016/j.fhj.2024.100162)
 
 
 <h3 style>Acknowledgements</h3>
