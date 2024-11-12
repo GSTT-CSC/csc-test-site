@@ -180,7 +180,7 @@ The experience from any project will involve significant amounts of transferable
 <strong>If I'm in specialty medical or dental training, will my time spent on the fellowship count towards my training?</strong>
 
 <p>No. Fellows typically agree with their Training Programme Director to enter less than full time training for the duration of this fellowship.
-The time spent on the fellowship is then added on extend the expected duration of training.
+The time spent on the fellowship is then added on to extend the expected duration of training.
 The educational content of the fellowship is not expected to align sufficiently with current medical/dental curricula to count towards competencies.</p>
 
 <strong>Can I do the fellowship at a lower time commitment than 0.4FTE?</strong>
