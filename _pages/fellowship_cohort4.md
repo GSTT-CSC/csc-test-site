@@ -223,7 +223,7 @@ Individual situations will be considered on a case-by-case basis at the discreti
 
 <strong>What is a BSH Fellow in Clinical AI? </strong>
 
-<p>The British Society for Haematology (BSH) is sponsoring posts for BSH members in Cohort 4 of the Fellowship in Clinical AI. 
+<p>The British Society for Haematology (BSH) is sponsoring posts for BSH members (full or associate members) in Cohort 4 of the Fellowship in Clinical AI. 
 There are 2 sponsored posts in Cohort 4, and the appointees will be designated BSH Fellows in Clinical AI. 
 These posts are reserved exclusively for applicants who are BSH members, and will link to projects relating to Haematology. 
 </p>
