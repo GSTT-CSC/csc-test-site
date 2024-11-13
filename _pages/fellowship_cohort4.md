@@ -37,7 +37,7 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 8. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Applicant Webinar </h3> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3BwaGeKHpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3BwaGeKHpg" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
 The webinar covered the features and curriculum of the fellowship, addressed frequently asked questions, and invite follow-up questions from applicants. 
 
