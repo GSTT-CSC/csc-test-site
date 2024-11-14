@@ -62,17 +62,21 @@ If you wished to apply this cohort but were ineligible, please email the fellows
 <strong>Why are only certain career stages within my workforce group eligible?  </strong>
 
 <p>Healthcare leaders with expertise in clinical AI are required for successful AI adoption in the NHS. 
-The eligible career stages have been agreed by consensus with the digital workforce leads for eligible professions in order to target individuals just about to enter positions of clinical leadership and service development, and thus best placed to deliver on the transformational benefits of clinical AI. 
+The eligible career stages have been agreed by consensus with our sponsor organisations and the digital workforce leads for eligible professions to target individuals just about to enter positions of clinical leadership and service development, and thus best placed to deliver on the transformational benefits of clinical AI. 
 </p>
-<strong>Is a doctor/dentist eligible if they are: a core trainee, post-CCT, or not in training? </strong>
+<strong>Is a doctor/dentist eligible if they are: a core trainee (e.g. including Internal Medicine Training), post-CCT, not in training, or not allocated a confirmed NTN at the time of application? </strong>
 
-<p>No. Medical and dental trainees must hold a National Training Number on a specialty training programme leading to CCT in its own right for the duration of the post.
+<p>No. Medical and dental trainees must hold a confirmed National Training Number on a specialty training programme leading to CCT in its own right for the duration of the post.
 </p>
 
-<strong>Do I have to know how coding or programming to be eligible? </strong>
 
-<p>No. Prior knowledge of coding and programming is not an essential criterion of the Person Specification. Previous fellows have been recruited without such experience. 
+
+<strong>Do I have to know how coding, programming, or AI to be eligible? </strong>
+
+<p>No. Prior experience of coding, programming, or AI is not an essential criterion of the Person Specification. Previous fellows have been recruited without such experience. 
 </p>
+
+
 <strong>Can I apply if I almost meet the eligibility criteria? </strong>
 
 <p>Applicants who believe they are borderline eligible should contact the faculty directly (gstt.aifellowship@nhs.net) to clarify before applying to avoid disappointment. 
@@ -127,7 +131,7 @@ Consider how to show evidence of meeting these criteria with real-world examples
 <strong>What if I cannot get the appropriate person to submit my <i>Approval In Principle Form</i>?  </strong>
 
 <p>Applicants who do not have the relevant submitted <i>Approval In Principle Form</i> will not be shortlisted. This is because we can only make offers to applicants who have evidence of being able to take up the post. 
-The submission portal closes automatically and late submissions are not accepted.
+The submission portal closes automatically and late submissions are not accepted. It is the applicant's responsibility to ensure this has happened.
 
 </p>
 </details>
@@ -176,24 +180,52 @@ The experience from any project will involve significant amounts of transferable
 
 <details>
 
-<summary>Working pattern, pay, leave, deferred entry</summary>
+<summary>Working pattern, pay, expenses</summary>
+
+<strong>Can I do the fellowship at a lower time commitment than 0.4FTE?</strong>
+<p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. 
+The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
+If your Approver cannot confirm that this time can be released, your application is not eligible and will not be shortlisted.
+
+</p>
+<strong>Can I compress the fellowship into a shorter and more intensive placement?</strong>
+
+<p>No. For the same reasons as above.</p>
+<strong>Can do the fellowship without reducing my training/working pattern, i.e. do it on top of normal working hours?</strong>
+
+<p>No. Due to the time commitments of this programme, a fellow must not have a total working pattern >1.0FTE in total.</p>
+
+
+
 <strong>If I'm in specialty medical or dental training, will my time spent on the fellowship count towards my training?</strong>
 
 <p>No. Fellows typically agree with their Training Programme Director to enter less than full time training for the duration of this fellowship.
 The time spent on the fellowship is then added on extend the expected duration of training.
 The educational content of the fellowship is not expected to align sufficiently with current medical/dental curricula to count towards competencies.</p>
 
-<strong>Can I do the fellowship at a lower time commitment than 0.4FTE?</strong>
-<p>No. Having a lower time commitment is not suitable for the learning objectives of the programme. 
-The educational activities and project placements are structured to deliver the learning objectives of the fellowship curriculum based on a 0.4 FTE unbanded working pattern.
-If your Approver cannot confirm that this time can be released, your application is not eligible and will not be shortlisted.
-Due to the time commitments of this programme, a fellow must not have a total working pattern >1.0FTE in total.
-</p>
+<strong>Is the fellowship free?</strong>
 
-<strong>Does the fellowship pay me directly? </strong>
+<p>Yes. The places are fully funded for eligible NHS staff.</p>
+
+<strong>Does the fellowship pay my salary directly?</strong>
 
 <p>No. The fellowship is not your Employer. Your existing Employer is reimbursed for your salary (0.4FTE for 12 months) to release your time for the fellowship post by the regional or professional sponsoring organisation for your post. The salary that the Employer is reimbursed is determined by the Employer’s quote at the start of the fellowship.  
 </p>
+<strong>Is there travel/subsistence expenses to support attendance at in-person workshops?</strong>
+
+<p>Yes. This is paid up front and then reclaimed from your Employer or regional sponsor.
+</p>
+
+<strong>What happens if I move to a new employer (e.g. rotating through training) during the fellowship?</strong>
+
+<p>Salary reimbursement for fellowship time is transferred to your new employer.
+</p>
+
+
+
+</details>
+<details>
+<summary>Leave and deferred entry</summary>
 
 <strong>What if I go on sick leave, parental leave, or any other extended leave during the fellowship year? </strong>
 <p>This fellowship is a time-bound opportunity that runs for 12 months between the dates specified. 
@@ -202,8 +234,9 @@ In general, interrupted time on the fellowship year cannot be added on beyond th
 Individual situations will be considered on a case-by-case basis at the discretion of the faculty. </p>
 
 <strong>Can I defer entry to the fellowship to a future cohort if I apply in this cohort? </strong>
-<p>No. The offer for a fellowship post must be accepted for that cohort’s recruitment cycle.
+<p>No. The offer for a fellowship post must be accepted for that cohort’s recruitment cycle. An applicant would newly apply for the following year.
 </p>
+
 
 </details>
 
@@ -273,3 +306,11 @@ Entering the fellowship through this route will not carry the designation of BSH
 It is possible to be matched to a BSH-badged project through this route, depending on regional availability. 
 </p>
 </details>
+
+<details>
+<summary>International and non-NHS applicants</summary>
+
+<strong>Can the faculty help me to identify a suitable sponsor?</strong>
+
+<p>No. Due to high volume of applicants, the faculty unfortunately is not able to help with this.
+</p>
