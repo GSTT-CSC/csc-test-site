@@ -9,7 +9,7 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 
 <h3 style>Key Dates</h3>
 * 08 Nov 2024: Applications open- *[Application Form](https://forms.office.com/e/WZDF73wwa8)* is live, *[Approval In Principle Form](https://forms.office.com/e/aeTa9pRyR4)* is live
-* 13 Nov 2024: [Webinar and Q&A](https://events.teams.microsoft.com/event/af05c919-3486-48d7-b889-17c9de9f4962@37c354b2-85b0-47f5-b222-07b48d774ee3)
+* 13 Nov 2024: Webinar and Q&A (recording below)
 * 18 Dec 2024: *Application Form* and *Approval In Principle Form* deadline at 23:45 GMT
 * 15 Jan 2025: Shortlisting outcomes communicated
 * 22-29 Jan 2025: Remote interviews
@@ -37,8 +37,9 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 8. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Applicant Webinar </h3> 
-[Register for this webinar](https://events.teams.microsoft.com/event/af05c919-3486-48d7-b889-17c9de9f4962@37c354b2-85b0-47f5-b222-07b48d774ee3).<br>
-The faculty will host a webinar on Wednesday 13 November 2023 for Cohort 4 applications. It will be uploaded here as a recording following the event. The webinar will cover the features and curriculum of the fellowship, address frequently asked questions, and invite follow-up questions from applicants. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3BwaGeKHpg" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+
+The webinar covered the features and curriculum of the fellowship, addressed frequently asked questions, and invite follow-up questions from applicants. 
 
 <h3 style>Recruitment Regions</h3>
 
