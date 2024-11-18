@@ -1,10 +1,10 @@
 ---
 layout: people
 permalink: /fellowship_cohort4.html
-title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26) 
+title: NHS Fellowship in Clinical AI<br> Cohort 4 Applications (2025-26) 
 ---
 Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) are open. <br>
-Successful applicants will be fellows in clinical AI from August 2025 - August 2026, per the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)<br>
+Successful applicants will be fellows in clinical AI from August 2025 - August 2026, per the [role description document](/assets/docs/FCAI_C4_Role_Description_v2.1.pdf)<br>
 Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf), [a suggested list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
 
 <h3 style>Key Dates</h3>
@@ -17,36 +17,27 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 * Aug 2025: Fellowship cohort 4 begins
 
 <h3 style>Application process for NHS applicants</h3> 
-1. Applicant reviews eligibility and person specification in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)
+1. Applicant reviews eligibility and person specification in the [role description document](/assets/docs/FCAI_C4_Role_Description_v2.1.pdf)
 2. Applicant submits *[Application Form](https://forms.office.com/e/WZDF73wwa8)*
 3. Applicant's Approver submits *[Approval In Principle Form](https://forms.office.com/e/aeTa9pRyR4)*. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern. Applications will not be shortlisted for interview without this evidence. 
 4. Applicants are shortlisted 
 5. Shortlisted applicants are offered a remote interview
 6. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
-<h3 style>Application process for international and non-NHS applicants</h3>
-
-1. Applicant reviews eligibility and person specification in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf)
-2. Applicant confirms a Sponsor who agrees to fund the salary and course fees associated with the fellowship (costs [available on request](mailto:gstt.aifellowship@nhs.net))
-3. Applicant reviews if they will also apply for the [International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) in London alongside the NHS Fellowship in Clinical AI (dual post, 0.4 AI + 0.6 clinical-[details available on request](mailto:gstt.aifellowship@nhs.net))
-3. Applicant emails their up-to-date CV [to the faculty ](mailto:gstt.aifellowship@nhs.net) 
-4. Applicant submits *[Non-NHS Application Form](https://forms.office.com/e/6xuc0A1qAj)*
-5. Applicant's Approver submits *[Non-NHS Approval In Principle Form](https://forms.office.com/e/HjdrF8kQgq)*. Applications will not be shortlisted for interview without this evidence. An Approver is a responsible person with decision-making power over the applicant's training/employment pattern.
-6. Applicants are shortlisted 
-7. Shortlisted applicants are offered a remote interview 
-8. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
+<h3 style>Application process for international applicants</h3>
+The Fellowship in Clinical AI and the [GSTT International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) are offered jointly in an exclusive dual fellowship in London, UK.
+<br>Dual fellows have a full-time placement in a globally recognised hospital which includes the full programme of the Fellowship in Clinical AI plus a part-time clinical attachment.
+1. Applicant reviews eligibility and person specification for this dual fellowship in the [information sheet](/assets/docs/FCAI_C4_International_Information_v1.1.pdf)
+2. Applicant confirms their application with their Sponsor
+3. Applicant submits *[International Application Form](https://forms.office.com/e/6xuc0A1qAj)*
+4. Applicants are shortlisted 
+5. Shortlisted applicants are offered a remote interview 
+6. Successful applicants are matched to an AI project and enter a dual fellowship with a clinical attachment
 
 <h3 style>Applicant Webinar </h3> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I3BwaGeKHpg" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
-The webinar covered the features and curriculum of the fellowship, addressed frequently asked questions, and invite follow-up questions from applicants. 
-
-<h3 style>Recruitment Regions</h3>
-
-Within each region, eligibility varies by workforce, as described in the [role description document](/assets/docs/FCAI_C4_Role_Description_V1.1.pdf).
-<br> Note from the faculty: Workforce and geographical eligibility are not decided by the faculty of this fellowship. This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
-If you wished to apply this cohort but were ineligible, please [email the fellowship faculty](mailto:gstt.aifellowship@nhs.net) so that we can identify priority areas for recruitment in future cohorts.
-
+The webinar covered the features and curriculum of the fellowship, addressed frequently asked questions, and invited follow-up questions from applicants.
 
 <h3 style>Frequently Asked Questions</h3> 
 If your question is not answered below, please [contact the faculty](mailto:gstt.aifellowship@nhs.net).
@@ -309,9 +300,13 @@ It is possible to be matched to a BSH-badged project through this route, dependi
 </details>
 
 <details>
-<summary>International and non-NHS applicants</summary>
-
+<summary>International applicants</summary>
 <strong>Can the faculty help me to identify a suitable sponsor?</strong>
 
 <p>No. Due to high volume of applicants, the faculty unfortunately is not able to help with this.
+</p>
+
+<strong>Can you accommodate a bespoke arrangement?</strong>
+
+<p>Please contact the faculty directly (gstt.aifellowship@nhs.net) if you require a bespoke arrangement.
 </p>
