@@ -25,9 +25,9 @@ Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3
 6. Successful applicants are matched to an AI project and join the fellowship in Cohort 4
 
 <h3 style>Application process for international applicants</h3>
-The Fellowship in Clinical AI and the [GSTT International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) are offered jointly in an exclusive dual fellowship in London, UK.
-<br>Dual fellows have a full-time placement in a globally recognised hospital which includes the full programme of the Fellowship in Clinical AI plus a part-time clinical attachment.
-1. Applicant reviews eligibility and person specification for this dual fellowship in the [information sheet](/assets/docs/FCAI_C4_International_Information_v1.1.pdf)
+The Fellowship in Clinical AI and the [GSTT International Clinical Fellowship](https://www.guysandstthomasevents.co.uk/vpp/icfp/) are offered jointly in an exclusive dual fellowship programme in London, UK.
+<br>Dual fellows have an integrated programme of 2 parallel placements in world-class London hospitals, which includes the full programme of the Fellowship in Clinical AI plus a clinical attachment to hone complementary clinical skills and knowledge.
+1. Applicant reviews  dual fellowship [information sheet](/assets/docs/FCAI_C4_Sponsor_info_v1.2.pdf) and confirms meeting the [entry requirements of the clinical programme](https://www.guysandstthomasevents.co.uk/vpp/icfp/)
 2. Applicant confirms their application with their Sponsor
 3. Applicant submits *[International Application Form](https://forms.office.com/e/6xuc0A1qAj)*
 4. Applicants are shortlisted 
