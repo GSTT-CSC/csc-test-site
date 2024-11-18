@@ -116,7 +116,7 @@ The list below is indicative and may vary between cohorts.
 * [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
 * Salisbury et al. described how our fellows 'learn how to safely deploy, maintain, and evaluate AI software in real clinical workflows' in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
 * Misra et al. described the fellowship's role in creating 'clinical champions' in 'AI-powered care' in the Royal College of Physicians' [Future Healthcare Journal (2024)](https://doi.org/10.1016/j.fhj.2024.100162)
-
+* The fellowship and its fellows were [profiled in the The Doctor](/assets/docs/BMA_TheDoctor_Nov2024.pdf#page=16) magazine of the British Medical Association
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
