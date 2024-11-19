@@ -1,7 +1,7 @@
 ---
 layout: people
 permalink: /fellowship_info.html
-title: NHS Fellowship in Clinical Artificial Intelligence
+title: NHS Fellowship in Clinical AI<br>Further Information
 ---
 <h3 style>Background to the NHS Fellowship in Clinical AI</h3>
 
