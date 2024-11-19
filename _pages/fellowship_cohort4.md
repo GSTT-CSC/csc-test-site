@@ -29,7 +29,7 @@ The Fellowship in Clinical AI and the [GSTT International Clinical Fellowship](h
 <br>Dual fellows have an integrated programme of 2 parallel placements in world-class London hospitals, which includes the full programme of the Fellowship in Clinical AI plus a clinical attachment to hone complementary clinical skills and knowledge.
 1. Applicant reviews  dual fellowship [information sheet](/assets/docs/FCAI_C4_Sponsor_info_v1.2.pdf) and confirms meeting the [entry requirements of the clinical programme](https://www.guysandstthomasevents.co.uk/vpp/icfp/)
 2. Applicant confirms their application with their Sponsor
-3. Applicant submits *[International Application Form](https://forms.office.com/e/6xuc0A1qAj)*
+3. Applicant submits *[International Application Form](https://forms.office.com/e/6xuc0A1qAj)* (*Approval In Principle* form not required at this stage)
 4. Applicants are shortlisted 
 5. Shortlisted applicants are offered a remote interview 
 6. Successful applicants are matched to an AI project and enter a dual fellowship with a clinical attachment
