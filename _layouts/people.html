@@ -11,7 +11,7 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
-    <h1>{{ page.title }}</h1>
+    <h1>{{ page.display_title | default: page.title | markdownify }}</h1>
     <br>
     {{ content }}
 </div>
