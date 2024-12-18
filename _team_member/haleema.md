@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Haleema Drake
 team-member-photo: /assets/img/team/Haleema.jpg
-job-role: AI Engineer
+job-role: Senior AI Engineer
 ---
 
 ### Bio

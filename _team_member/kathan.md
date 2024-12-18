@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Kathan Sonar
 team-member-photo: /assets/img/team/KathanS.jpg
-job-role: Trainee Clinical Scientist - Clinical Scientific Computing
+job-role: Trainee Clinical Scientist, Clinical Scientific Computing
 ---
 
 ### Bio
