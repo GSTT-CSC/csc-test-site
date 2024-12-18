@@ -1,7 +1,8 @@
 ---
 layout: people
 permalink: /fellowship_info.html
-title: NHS Fellowship in Clinical Artificial Intelligence
+title: NHS Fellowship in Clinical AI Further Information
+display_title: NHS Fellowship in Clinical AI<br>Further Information
 ---
 <h3 style>Background to the NHS Fellowship in Clinical AI</h3>
 
@@ -22,15 +23,15 @@ The faculty of the NHS Fellowship in Clinical AI is based in the Clinical Scient
 - [Dr Alexander T Deng](/team_member/alex.html), Programme Lead
 - [Beatrix Fletcher](/team_member/beatrix.html), Programme Manager
 
-[Contact the faculty](mailto:ai4vbh@kcl.ac.uk)
+[Contact the faculty](mailto:gstt.aifellowship@nhs.net)
 
 <h3 style>Curriculum</h3>
 The bespoke curriculum of the fellowship was designed by the faculty, and aligns to educational frameworks from the [Faculty of Clinical Informatics](https://fci.org.uk/menu2/professional-competencies/core-competency-framework.html) and  Health Education England.
 
-[Read the curriculum](/assets/docs/FCAI_Curriculum_v2.7.pdf)
+[Read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf)
 
 <h3 style>NHS Recruitment Regions and AI Project Host Trusts</h3>
-
+The list below is indicative and may vary between cohorts.
 <details>
 <summary>
 <b>England</b>
@@ -62,7 +63,12 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
   <li>The Royal Wolverhampton NHS Trust</li>
 </ul>
 </details>
-
+<details><summary>North West</summary>
+<ul>
+  <li>Alder Hey Children's Hospital Trust</li>
+  <li>Manchester University NHS Foundation Trust</li>
+</ul>
+</details>
 
 <details><summary>South East</summary>
 <ul>
@@ -106,10 +112,13 @@ The bespoke curriculum of the fellowship was designed by the faculty, and aligns
 <br>
 
 <h3 style>Literature</h3>
-* Salisbury et al. described the fellowship in the context of NHS digital fellowship programmes in an [editorial in npj Digital Medicine (2023)](https://www.nature.com/articles/s41746-023-00922-8.pdf#page=2)
+* The [NHS Transformation Directorate](https://transform.england.nhs.uk) report [*Developing Healthcare Workers' Confidence in AI* (2022)](/assets/docs/developingconfidenceinai-oct2022.pdf#page=68) describes the fellowship's role in training digital and AI specialist clinicians
+* The [*NHS Long Term Workforce Plan* (2023)](/assets/docs/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
 * [Health Innovation Network](https://healthinnovationnetwork.com/) formally evaluated the fellowship pilot in an [independent published report (2023)](/assets/docs/FCAI_HIN_EvaluationReport2023.pdf)
-* The [NHS Long Term Workforce Plan (2023)](https://www.england.nhs.uk/wp-content/uploads/2023/06/nhs-long-term-workforce-plan-v1.2.pdf#page=74) referenced the fellowship as an exemplar programme in upskilling and training staff to maximise AI technologies
-* The [NHS Transformation Directorate](https://transform.england.nhs.uk) report *[Developing Healthcare Workers' Confidence in AI (2022)](https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf#page=68)* describes the fellowship's role in training digital and AI specialist clinicians
+* Salisbury et al. described how our fellows 'learn how to safely deploy, maintain, and evaluate AI software in real clinical workflows' in an [editorial in *npj Digital Medicine* (2023)](/assets/docs/s41746-023-00922-8.pdf#page=2)
+* Misra et al. described the fellowship's role in creating 'clinical champions' in 'AI-powered care' in the [*Future Healthcare Journal* (2024)](/assets/docs/j.fhj.2024.100162.pdf#page=3) of the Royal College of Physicians
+* The fellowship and its fellows were [profiled in the *The Doctor* magazine (2024)](/assets/docs/BMA_TheDoctor_Nov2024.pdf#page=16) of the British Medical Association
+
 
 <h3 style>Acknowledgements</h3>
 The educational materials of this fellowship have been co-developed with partners including:
@@ -126,11 +135,13 @@ The fellowship is funded through:
 * [British Society for Haematology](https://b-s-h.org.uk/)
 
 The fellowship gratefully acknowledges the support of:
-* Dr Hatim Abdulhussein, [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed)- NHS England
-* James Freed, Deputy Director- [NHS Digital Academy](https://digital-transformation.hee.nhs.uk/digital-academy/programmes)
+* [Dr Hatim Abdulhussein](https://www.linkedin.com/in/drhatz/), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed)- NHS England
+* [James Freed](https://www.linkedin.com/in/james-freed-digital/), Deputy Director- [NHS Digital Academy](https://digital-transformation.hee.nhs.uk/digital-academy/programmes)
+* [Dr Claire Mallinson](https://www.linkedin.com/in/claire-mallinson-01808212a/), Director of Education- [King's Health Partners](https://www.kingshealthpartners.org/our-work/khp-education)
 
 <h3 style>Testimonials</h3>
->"I’m so proud of what you’re doing. I look forward to following your career paths because you’re going to light it up. You’re going to be the change agents for medicine, and we sure need it." <br/>Professor Eric Topol (2022), Founder and Director of the Scripps Research Translational Institute, Leader of The [Topol Review](https://topol.hee.nhs.uk/)
+>"I’m so proud of what you’re doing. I look forward to following your career paths because you’re going to light it up. You’re going to be the change agents for medicine, and we sure need it." <br/>[Professor Eric Topol](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/eric-topol/) (2022), Founder and Director of the Scripps Research Translational Institute, Leader of The [Topol Review](https://topol.hee.nhs.uk/)
 
 >"The launch of the Fellowship in Clinical AI is an unprecedented step towards integrating experiential learning into postgraduate training pathways, and we hope to learn from and scale opportunities like this to help prepare the future clinical AI specialist workforce" <br/>Dr Hatim Abdulhussein (2022), [National Clinical Lead for AI and Digital Workforce](https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed), NHS England
 
+>"The NHS Fellowship in Clinical AI has been the most valuable professional development activity of my career to date." <br/>[Dr Rishi Ramessur](/fellow/rishiramessur.html) (2024), NHS Fellow in Clinical AI, Cohort 2
