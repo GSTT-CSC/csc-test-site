@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Keri Anderson
 team-member-photo: /assets/img/team/KeriA.jpg
-job-role: Trainee Clinical Scientist - Clinical Informatics
+job-role: Trainee Clinical Scientist, Clinical Informatics
 ---
 
 ### Bio

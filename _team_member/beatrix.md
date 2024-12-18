@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Beatrix Fletcher
 team-member-photo: /assets/img/team/Beatrix1.jpg
-job-role: Programme Manager - NHS Fellowship in Clinical AI <br>
+job-role: Senior Programme Manager <br>
 ---
 
 ### Bio

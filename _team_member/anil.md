@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Anil Mistry
 team-member-photo: /assets/img/team/Anil.jpg
-job-role: Clinical Scientist in AI <br>HEE Topol Digital Fellow
+job-role: Senior Clinical Scientist in AI <br>HEE Topol Digital Fellow
 ---
 
 ### Bio

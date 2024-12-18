@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Mike Woodward
 team-member-photo: /assets/img/team/Mike.jpg
-job-role: Clinical Scientist in AI
+job-role: Senior Clinical Scientist in AI
 ---
 
 ### Bio
@@ -10,4 +10,4 @@ Mike joined the CSC team in July 2023. Prior to joining the CSC team he worked a
 
 
 ### CSC Team Role
-TBC
+Mike works as the AI development lead in the team, focussing on model training.

@@ -2,7 +2,7 @@
 layout: teammember
 team-member-name: Eleanor Stylianides
 team-member-photo: /assets/img/team/Eleanor.jpg
-job-role: Trainee Clinical Informatician
+job-role: Trainee Clinical Scientist, Clinical Informatics
 ---
 
 ### Bio
