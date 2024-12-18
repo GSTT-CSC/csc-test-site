@@ -15,9 +15,62 @@ en: &DEFAULT_EN
     text: "Click on the photos to find out more about each member of the team."
     section: team
     people:
-      - name: "Haris Shuaib"
+      - name: "Dika Vilic"
         role: "Head of Clinical Scientific Computing"
+        team-member-page: /team_member/dika.html
+        subgroup: "CSC core"        
+        image: assets/img/team/Dika.jpg
+        social:
+          - url: https://github.com/dangerdika
+            icon: fab fa-github
+      - name: "Anil Mistry"
+        role: "Senior Clinical Scientist in AI & Safety Lead"
+        team-member-page: /team_member/anil.html
+        subgroup: "CSC core"
+        image: assets/img/team/Anil.jpg
+        social:
+          - url: https://github.com/AnilMistry
+            icon: fab fa-github
+      - name: "Elise Pather"
+        role: "Senior Clinical Scientist in AI"
+        team-member-page: /team_member/elise.html
+        image: assets/img/team/elise.jpg
+        social:
+          - url: https://github.com/ElisePather
+            icon: fab fa-github
+        subgroup: "CSC core"
+      - name: "Agathe Zecevic"
+        role: "Data Scientist & NLP Lead"
+        team-member-page: /team_member/agathe.html
+        image: assets/img/team/Agathe.jpg
+        subgroup: "CSC core"
+        social:
+          - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
+            icon: fab fa-linkedin-in
+      - name: "Mike Woodward"
+        role: "Senior Clinical Scientist in AI & Development Lead"
+        team-member-page: /team_member/mike.html
+        image: assets/img/team/Mike.jpg
+        subgroup: "CSC core"        
+        social:
+          - url: https://github.com/mikewoodward94
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/mike-woodward-b29083204/
+            icon: fab fa-linkedin-in
+      - name: "Haleema Drake"
+        role: "Senior AI Engineer & Data Lead"
+        team-member-page: /team_member/haleema.html
+        image: assets/img/team/Haleema.jpg
+        subgroup: "CSC core"
+        social:
+          - url: https://github.com/heyhaleema
+            icon: fab fa-github
+          - url: https://www.linkedin.com/heyhaleema
+            icon: fab fa-linkedin-in
+      - name: "Haris Shuaib"
+        role: "Director"
         team-member-page: /team_member/haris.html
+        subgroup: "Fellowship in Clinical AI Faculty"
         image: assets/img/team/Haris.png
         social:
           - url: https://twitter.com/haris_shuaib
@@ -26,24 +79,11 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/haris-shuaib/
             icon: fab fa-linkedin-in
-      - name: "Dika Vilic"
-        role: "Deputy Head of Clinical Scientific Computing"
-        team-member-page: /team_member/dika.html
-        image: assets/img/team/Dika.jpg
-        social:
-          - url: https://github.com/dangerdika
-            icon: fab fa-github
-      - name: "Anil Mistry"
-        role: "Senior Clinical Scientist in AI"
-        team-member-page: /team_member/anil.html
-        image: assets/img/team/Anil.jpg
-        social:
-          - url: https://github.com/AnilMistry
-            icon: fab fa-github
-      - name: "Alexander T Deng"
-        role: "Programme Lead for the Fellowship in Clinical AI"
+      - name: "Alex Deng"
+        role: "Programme Lead"
         team-member-page: /team_member/alex.html
         image: assets/img/team/Alex.jpg
+        subgroup: "Fellowship in Clinical AI Faculty"        
         social:
           - url: https://twitter.com/alextdeng
             icon: fab fa-twitter
@@ -51,42 +91,19 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/alexandertdeng
             icon: fab fa-github
-      - name: "Haleema Drake"
-        role: "AI Engineer"
-        team-member-page: /team_member/haleema.html
-        image: assets/img/team/Haleema.jpg
-        social:
-          - url: https://github.com/heyhaleema
-            icon: fab fa-github
-          - url: https://www.linkedin.com/heyhaleema
-            icon: fab fa-linkedin-in
       - name: "Beatrix Fletcher"
-        role: "Programme Manager for the Fellowship in Clinical AI"
+        role: "Programme Manager"
         team-member-page: /team_member/beatrix.html
         image: assets/img/team/Beatrix1.jpg
+        subgroup: "Fellowship in Clinical AI Faculty"        
         social:
           - url: https://www.linkedin.com/in/beatrix-fletcher-4a4653143/
-            icon: fab fa-linkedin-in
-      - name: "Agathe Zecevic"
-        role: "Data Scientist"
-        team-member-page: /team_member/agathe.html
-        image: assets/img/team/Agathe.jpg
-        social:
-          - url: https://www.linkedin.com/in/agathe-zecevic-7034b91b0/
-            icon: fab fa-linkedin-in
-      - name: "Mike Woodward"
-        role: "Clinical Scientist in AI"
-        team-member-page: /team_member/mike.html
-        image: assets/img/team/Mike.jpg
-        social:
-          - url: https://github.com/mikewoodward94
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/mike-woodward-b29083204/
             icon: fab fa-linkedin-in
       - name: "Eleanor Stylianides"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/eleanor.html
         image: assets/img/team/Eleanor.jpg
+        subgroup: "Trainees & Fellows"
         social:
           - url: https://github.com/estyli
             icon: fab fa-github
@@ -96,6 +113,7 @@ en: &DEFAULT_EN
         role: "Clinical AI Fellow"
         team-member-page: /team_member/aoife.html
         image: assets/img/team/aoife.jpeg
+        subgroup: "Trainees & Fellows"
         social:
           - url: https://www.linkedin.com/in/dr-aoife-f-28a9aa150/
             icon: fab fa-linkedin-in
@@ -103,34 +121,27 @@ en: &DEFAULT_EN
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/keri.html
         image: assets/img/team/KeriA.jpg
+        subgroup: "Trainees & Fellows"
         social:
           - url: https://github.com/keriand
             icon: fab fa-github
           - url: https://www.linkedin.com/in/keri-anderson-b80468141/
             icon: fab fa-linkedin-in
-
       - name: "David De Mola"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/david.html
         image: assets/img/team/daviddm.jpg
+        subgroup: "Trainees & Fellows"
         social:
           - url: https://github.com/ddemola
             icon: fab fa-github
           - url: https://www.linkedin.com/in/ddemola/
             icon: fab fa-linkedin-in
-
-      - name: "Elise Pather"
-        role: "Senior Clinical Scientist in AI"
-        team-member-page: /team_member/elise.html
-        image: assets/img/team/elise.jpg
-        social:
-          - url: https://github.com/ElisePather
-            icon: fab fa-github
-
       - name: "Kathan Sonar"
         role: "Trainee Clinical Scientist"
         team-member-page: /team_member/kathan.html
         image: assets/img/team/KathanS.jpg
+        subgroup: "Trainees & Fellows"
         social:
           - url: https://github.com/Ksonar262
             icon: fab fa-github
