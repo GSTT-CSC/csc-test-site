@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: Radiotherapy Auto Segmentation
-status: Evaluating
+#status: Evaluating
+status: Current
 image: /assets/img/projects/autosegct_logo.png
 summary: Single application for all in-house auto-segmentation contours
 csc-lead: <a href="/team_member/anil.html">Anil Mistry</a> and <a href="/team_member/tom.html">Tom Roberts</a>

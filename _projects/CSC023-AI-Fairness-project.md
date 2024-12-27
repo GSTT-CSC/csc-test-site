@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: AI fairness toolkit
-status: Developing
+status: Current
+#status: Developing
 image: /assets/img/blog/racial_bias.jpg
 summary: Development of an AI fairness toolkit for bias checking in AI evaluation results.
 csc-lead: <a href="/team_member/dika.html">Dika</a>

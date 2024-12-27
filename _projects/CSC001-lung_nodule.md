@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: Lung Nodules
-status: Graveyard
+#status: Graveyard
+status: Concluded
 image: /assets/img/projects/CT_lung_nodule.png
 summary: Automatic lung nodule detection and characterisation on CT Chest
 csc-lead: <a href="/team_member/Anil.html">Anil</a>

@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: Characterising Adrenal Adenomas
-status: Graveyard
+status: Concluded
+#status: Graveyard
 image: /assets/img/projects/adrenal_glands.jpg
 summary: The use of AI in characterising incidental adrenal lesions on portovenous CT abdomen and pelvis.
 csc-lead: <a href="/team_member/Dika.html">Dika</a>
