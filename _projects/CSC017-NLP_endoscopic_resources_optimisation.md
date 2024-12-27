@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: NLP for optimisation of endoscopic resources
-status: Reporting
+#status: Reporting
+status: Current
 image: /assets/img/blog/nhs_logo.png
 summary: Natural Language Processing of Endoscopic and associated pathology text to optimise post COVID endoscopy resources
 csc-lead: <a href="team_member/Agathe.html">Agathe</a>

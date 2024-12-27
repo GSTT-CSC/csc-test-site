@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: Prosthetic Loosening
-status: Graveyard
+#status: Graveyard
+status: Concluded
 image: /assets/img/blog/nhs_logo.png
 summary: An AI tool to improve accuracy and increase confidence in reporting of prosthetic loosening.
 csc-lead: <a href="/team_member/Dika.html">Dika</a>

@@ -1,7 +1,8 @@
 ---
 layout: project_page
 title: Osteoporosis
-status: Data Curating
+status: Current
+#status: Data Curating
 image: /assets/img/projects/Osteoporosis.jpg
 summary: Timely identification of vertebral compression fractures to promote early treatment interventions.
 csc-lead: <a href="/team_member/haleema.html">Haleema</a>
