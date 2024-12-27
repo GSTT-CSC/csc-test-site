@@ -1,16 +1,16 @@
 section: whatwedo
-title: "What we do"
+title: ""
 text:
 aspects:
-  - title: "People"
-    text: "We develop educational and training opportunities for healthcare professionals at different stages of their career to gain the skills necessary to safely and effectively adopt digital health technologies."
-    image: assets/img/people-icon.svg
-    colour: "#645EAA"
-  - title: "Platforms"
-    text: "We develop enabling technical platforms that facilitate the adoption of cutting edge digital health technologies such as medical AI. We focus on shortening the journey from innovation to implementation."
+  - title: "AI"
+    text: "We develop, evaluate and deploy AI and digital health technologies for Guy's and St Thomas' NHS Foundation Trust."
     image: assets/img/platforms-icon.svg
     colour: "#017751"
-  - title: "Policy"
-    text: "We develop and contribute to the development of policies, best practice and industry standards in regards to software medical devices and patient data, locally for our Trust as well as in collaboration with others nationally and internationally."
+  - title: "Safety"
+    text: "We develop, advise and support the development and usage of SaMD (Software As a Medical Device), centred on patient safety."
+    image: assets/img/people-icon.svg
+    colour: "#645EAA"
+  - title: "Data"
+    text: "We enable safe and efficient data access for testing and development of digital health technologies."
     image: assets/img/policy-icon.svg
     colour: "#D7472E"
