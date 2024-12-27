@@ -1,7 +1,4 @@
 # CSC Website – Dev Guide
-
-_Eventually this guide will become part of the Handbook on the website._
-
 _Please flag any issues with these instructions as I have mostly written from memory!_
 
 ## Install
