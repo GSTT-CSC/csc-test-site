@@ -1,7 +1,7 @@
 ---
 layout: policy
-permalink: /policy.html
-title: Policy
+permalink: /samd.html
+title: Software As a Medical Device
 ---
 
 The main workload of implementing AI into clinical practice involves either building applications or buying them. Both

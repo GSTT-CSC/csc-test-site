@@ -11,17 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
 
-  policy:
-    text: "Click on the relative policies to find out more about each one of them."
-    section: policy
-    policies:
-      - name: "SOP's"
-        policy-page: /SOP.html
-      - name: "Guides"
-      - name: "Pathways"
-      - name: "IG"
-      - name: "IS"
-      - name: "IT"
+
 
   buttons:
     - text: "Building SaMD"
