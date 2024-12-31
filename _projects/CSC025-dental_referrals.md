@@ -25,7 +25,7 @@ success-criteria:
 This application automatically processes (and vets) dental referral questionnaire responses for South East London (SEL). SEL secondary care dental services are provided by Guy's and St Thomas' NHS FT, King's College Hospital, and Queen Mary Sidcup, where the referral process is the same for each care provider. Thus the application can be used in all three sites. 
 <br>
 <br>
-**Rational** <br><br>
+**Rationale** <br><br>
 Referrals to the GSTT dental department can represent up to 10% of all secondary care referrals. The manual referral checking, patient EHR (Electronic Health Record) upload, and vetting tasks can represent a significant burden to clinicians and administrative staff. This application assists staff in these tasks to improve speed and efficiency.
 <br>
 <br>
