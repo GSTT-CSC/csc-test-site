@@ -11,17 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
 
-  title: "The landscape"
+  title: "The Landscape"
   section: platforms
   platforms:
     - name: "MLOps"
       platform-page: /platforms/mlops.html
       platform-image: assets/img/platforms/mlops_logo.png
       platform-verb: "Develop AI applications"
-    - name: "CogStack"
-      platform-page: /platforms/cogstack.html
-      platform-image: assets/img/platforms/cogstack_logo.png
-      platform-verb: "Retrieve Unstructured Data"
     - name: "XNAT"
       platform-page: /platforms/xnat.html
       platform-image: assets/img/platforms/xnat_logo.png
