@@ -1,6 +1,6 @@
 ---
 layout: project_page
-title: Dental Refferal AI - Automated Referral Vetting
+title: Dental Refferals - Automated Referral Processing and Vetting
 #status: Evaluating
 status: Current
 image: /assets/img/projects/dental_referral_logo.png
