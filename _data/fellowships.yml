@@ -14,16 +14,16 @@ en: &DEFAULT_EN
   buttons:
     - text: "Previous Cohorts"
       link: "fellowship_previous_cohorts.html"
-      img: "assets/img/people/previous.svg"
+      img: "assets/img/education/previous.svg"
     - text: "Current Cohort"
       link: "fellowship_current_cohort.html"
-      img: "assets/img/people/current.svg"
+      img: "assets/img/education/current.svg"
     - text: "Cohort 3 Applications"
       link: "fellowship_cohort_applications.html"
-      img: "assets/img/people/next_cohort.svg"
+      img: "assets/img/education/next_cohort.svg"
     - text: "Further General Information"
       link: "fellowship_general.html"
-      img: "assets/img/people/general_information.svg"
+      img: "assets/img/education/general_information.svg"
 
 en-US:
   <<: *DEFAULT_EN

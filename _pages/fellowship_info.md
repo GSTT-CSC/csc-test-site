@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: education
 permalink: /fellowship_info.html
 title: NHS Fellowship in Clinical AI Further Information
 display_title: NHS Fellowship in Clinical AI<br>Further Information

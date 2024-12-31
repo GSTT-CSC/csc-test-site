@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: education
 title: Scientist Training Programme (STP) Scheme
 permalink: /stp.html
 description:

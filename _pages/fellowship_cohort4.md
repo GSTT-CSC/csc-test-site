@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: education
 permalink: /fellowship_cohort4.html
 title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26)
 display_title: NHS Fellowship in Clinical AI<br>Cohort 4 Applications (2025-26)

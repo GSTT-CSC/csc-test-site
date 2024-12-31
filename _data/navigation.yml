@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About Us"
       section: /team.html
-    - title: "People"
-      section: /people.html
+    - title: "Education"
+      section: /education.html
     - title: "Platforms"
       section: /platforms.html
     - title: "Policy"
