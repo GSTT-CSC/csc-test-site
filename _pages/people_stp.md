@@ -77,10 +77,4 @@ We're committed to continuously improving the experience for each new STP traine
 - Review trainee work in an agile method, rather than a waterfall, to encourage trainees to show working and pick up issues and misunderstandings early. 
 - Map competencies to a timeline with flexible deadlines. 
 
-<!---
-## Alumni
 
-The CSC team is proud to have an esteemed list of alumni from the programme, some of which have shared their highlights below:
-
-{% include carousel.html %}
--->
