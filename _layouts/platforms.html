@@ -15,20 +15,18 @@ document.getElementById("page-top").className="bg-light";
     <h1>{{ site.data.platforms[site.locale].title }}</h1>
 
     <!--Landscape Wheel-->
-    <h3 class="lead">
-    The key components needed for development of AI models in NHS are three: the data, the machine learning environment, and the quality management system that informs design to ensure patient safety.
-        For data retrieval from the clinical systems, we use XNAT (imaging data), our data warehousing solutions (structured data) and Cogstack (unstructured data). For machine learning activities we use MLOPs.
-        The system design is informed by the SOPs in our QMS. Finally, our models are deployed through AIDE. Click on the logos below to find out more about our platforms.
+    <h3 class="lead text-justify">
+      Developing AI models in the NHS relies on three key components: data, a robust machine learning environment, and a quality management system (QMS) to ensure patient safety. We use XNAT, our data warehousing platform, to seamlessly retrieve and manage structured imaging data from clinical systems. Machine learning workflows are powered by MLOps, providing an automated, structured, and logged framework for AI development. Guided by Standard Operating Procedures (SOPs) within our QMS, we prioritize safety and compliance throughout the design process. Finally, our models are deployed efficiently through AIDE, our AI deployment platform. Click on the logos below to explore each platform.
     </h3>
     <!--Landscape Grid-->
     <p>{{ site.data.platforms[site.locale].intro-text }}</p>
 
       <div class="row pt-3 text-center text-md-left">
       {% for platform in site.data.platforms[site.locale].platforms %}
-        <div class="mx-auto col-md-6 col-lg-4 p-4 ">
+        <div class="mx-auto col-md-6 col-lg-3 p-4 ">
             <h4>{{ platform.name }}</h4>
             <a href="{{ platform.platform-page }}">
-              <img style="height: 170px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
+              <img style="height: 140px;" src="{{ platform.platform-image }}" alt="{{ platform.name }}">
             </a>
             <p>{{ platform.platform-verb }}</p>
         </div>
