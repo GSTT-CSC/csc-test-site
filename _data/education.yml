@@ -14,13 +14,13 @@ en: &DEFAULT_EN
   buttons:
     - text: "NHS Fellowship in Clinical AI"
       link: "fellowship.html"
-      img: "assets/img/people/fellowship.svg"
+      img: "assets/img/education/fellowship.svg"
     - text: "Scientist Training Programme"
       link: "stp.html"
-      img: "assets/img/people/stp.svg"
+      img: "assets/img/education/stp.svg"
     - text: "Other programmes and resources"
-      link: "resources.html#People"
-      img: "assets/img/people/sign.svg"
+      link: "resources.html#Education"
+      img: "assets/img/education/sign.svg"
 
 en-US:
   <<: *DEFAULT_EN

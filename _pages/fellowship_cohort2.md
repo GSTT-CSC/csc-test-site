@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: education
 permalink: /fellowship_cohort2.html
 title: NHS Fellowship in Clinical AI Cohort 2
 display_title: NHS Fellowship in Clinical AI<br>Cohort 2

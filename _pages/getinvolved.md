@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: education
 title: Get Involved
 permalink: /getinvolved.html
 description:
