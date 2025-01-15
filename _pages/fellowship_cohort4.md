@@ -52,6 +52,7 @@ If your question is not answered below, please [contact the faculty](mailto:gstt
 This is decided at a regional level by regional funding bodies, and this is not a uniform process across the UK. 
 If you wished to apply this cohort but were ineligible, please email the fellowship faculty (gstt.aifellowship@nhs.net) so that we can identify priority areas for recruitment in future cohorts.
 </p>
+
 <strong>Why are only certain career stages within my workforce group eligible?  </strong>
 
 <p>Healthcare leaders with expertise in clinical AI are required for successful AI adoption in the NHS. 
@@ -61,7 +62,6 @@ The eligible career stages have been agreed by consensus with our sponsor organi
 
 <p>No. Medical and dental trainees must hold a confirmed National Training Number on a specialty training programme leading to CCT in its own right for the duration of the post.
 </p>
-
 
 
 <strong>Do I have to know how coding, programming, or AI to be eligible? </strong>
@@ -268,7 +268,7 @@ These are “BSH-badged projects”, and first priority for them is reserved exc
 
 <p>Yes. BSH applicants can apply from any NHS region. 
 However, in practice, it is the applicant's responsibility to ensure that they are able to commute to their project location through the fellowship year, and this is not resourced by the BSH or by the fellowship itself. The offer for a fellowship post may be withdrawn if the potential BSH Fellow in Clinical AI is unable to demonstrate a feasible plan for commuting to their project location. 
-Please contact the faculty ((gstt.aifellowship@nhs.net) for more specific information on geographical availability of such projects.
+Please contact the faculty (gstt.aifellowship@nhs.net) for more specific information on geographical availability of such projects.
 </p>
 <strong>How will BSH membership be checked? </strong>
 
@@ -301,13 +301,31 @@ It is possible to be matched to a BSH-badged project through this route, dependi
 </details>
 
 <details>
-<summary>International applicants</summary>
+<summary>Sponsorship (including for international applicants)</summary>
+
+<strong>I am an international or non-NHS applicant. Am I eligible if I have a sponsor who will directly fund a post for me?</strong>
+
+<p>Potentially yes. Read the details in the section above titled 'Application process of international applicants'.
+</p>
+
+<strong>I am an NHS applicant. Am I eligible if I have a sponsor who will directly fund a post for me?</strong>
+
+<p>Potentially yes. Your sponsor should contact the faculty (gstt.aifellowship@nhs.net) to discuss potential arrangements as early as possible.
+</p>
+
 <strong>Can the faculty help me to identify a suitable sponsor?</strong>
 
-<p>No. Due to high volume of applicants, the faculty unfortunately is not able to help with this.
+<p>No. Due to the high volume of applicants, the faculty is unable to help with such requests.
 </p>
 
-<strong>Can you accommodate a bespoke arrangement?</strong>
+<strong>Can you accommodate a bespoke arrangement through sponsorship?</strong>
 
-<p>Please contact the faculty directly (gstt.aifellowship@nhs.net) if you require a bespoke arrangement.
+<p>Potentially yes. Please contact the faculty directly (gstt.aifellowship@nhs.net) if you require a bespoke arrangement through sponsorship. 
+Note that last minute requests for bespoke arrangements are difficult to accommodate due to logistics.
 </p>
+
+<strong>I represent the sponsor for a prospective applicant, how do I proceed?</strong>
+
+<p>Please contact the faculty (gstt.aifellowship@nhs.net) to discuss potential arrangements as early as possible.
+</p>
+</details>
