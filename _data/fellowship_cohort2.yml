@@ -49,6 +49,8 @@
          team-member-page: /fellow/ruchirshah.html
          image: assets/img/fellow/ruchirshah.jpg
          social:
+           - url: https://www.linkedin.com/in/ruchir-shah-ba655a341/
+             icon: fab fa-linkedin-in
 
        - name: "Sonam Vadera"
          role: "Specialty Trainee Doctor in Clinical Radiology"

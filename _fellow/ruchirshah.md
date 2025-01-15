@@ -4,7 +4,8 @@ team-member-name: Ruchir Shah
 team-member-photo: /assets/img/fellow/ruchirshah.jpg
 job-role: Fellow in Clinical AI, Cohort 2
 social:
-
+           - url: https://www.linkedin.com/in/ruchir-shah-ba655a341/
+             icon: fab fa-linkedin-in
 ---
 
 ### Fellowship Bio
