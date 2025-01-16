@@ -4,8 +4,11 @@ permalink: /fellowship_cohort4.html
 title: NHS Fellowship in Clinical AI Cohort 4 Applications (2025-26)
 display_title: NHS Fellowship in Clinical AI<br>Cohort 4 Applications (2025-26)
 ---
-Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) are open. <br>
-Successful applicants will be fellows in clinical AI from August 2025 - August 2026, per the [role description document](/assets/docs/FCAI_C4_Role_Description_v2.1.pdf)<br>
+Applications for Cohort 4 of the [NHS Fellowship in Clinical AI](/fellowship.html) are closed.<br>
+Shortlisting and interview information for applicants is communicated directly by email. <br>
+Successful applicants from this application cycle will be fellows in clinical AI from August 2025 - August 2026, per the [role description document](/assets/docs/FCAI_C4_Role_Description_v2.1.pdf)<br>
+<br>
+Applications for Cohort 5 will open in late 2025. The information on this page is kept to serve as a guide for prospective applicants.<br>
 Prospective applicants can [read the curriculum](/assets/docs/FCAI_Curriculum_v3.2.pdf), [a suggested list of clinical AI resources](/resources.html#People/) and the [background to the fellowship](/fellowship_info.html).
 
 <h3 style>Key Dates</h3>
