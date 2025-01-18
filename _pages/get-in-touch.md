@@ -10,9 +10,6 @@ Please note that we only support electives from trainees on the Science Training
 do not have capacity to support medical electives, and can currently only support volunteer work with us if you are already a GSTT employee 
 as obtaining honorary contracts is a lengthy process and most of our work requires permission to work with medical data. 
 
-
-For the Fellowship in Clinical AI, please [email](mailto:gstt.aifellowship@nhs.net) instead.
-
 <iframe
   src="https://jnkpjp4739m6qy5.embednotionpage.com/1506789535ae8057984ed7afff584658"
   style="width: 100%; height: 1000px; border: none !important; padding: 0;"
